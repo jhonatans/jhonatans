@@ -1,3 +1,6 @@
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=50&color=gradient&reversal=false"/>
+
 # Jhonathan Silva - Desenvolvedor de Software
 
 ## Carreira
@@ -6,7 +9,7 @@ Minha carreira abrange diversas áreas, com destaque para o desenvolvimento de s
 
 Atualmente, como professor em um curso técnico de desenvolvimento de sistemas, compartilho meu conhecimento em Administração de Banco de Dados, desenvolvimento de software mobile com React Native, além de ensinar lógica de programação e estrutura de dados com Python. Essa experiência, aliada ao meu papel anterior como engenheiro de software, solidificou minha trajetória no campo do desenvolvimento de software, combinando habilidades técnicas com expertise em gestão e educação.
 
-## Tecnologias que domino
+## Tecnologias
 
 - MySql
 - Postgree
@@ -17,4 +20,15 @@ Atualmente, como professor em um curso técnico de desenvolvimento de sistemas, 
 - PHP
 - HTML
 - CSS (Tailwind CSS)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jhonathan-silva-45baa347/)
+![](https://komarev.com/ghpvc/?username=jhonatans)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jhonatans&show_icons=true&count_private=true&hide_border=true&title_color=D7DBDD&icon_color=5DADE2&text_color=808B96&bg_color=0d1117" alt="Jhonathan Silva github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatans&layout=compact&hide_border=true&title_color=D7DBDD&text_color=95A5A6&bg_color=0d1117&hide=html" />
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=50&color=gradient&reversal=true&section=footer"/>
 
