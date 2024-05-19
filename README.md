@@ -7,7 +7,7 @@
 
 Minha carreira abrange diversas áreas, com destaque para o desenvolvimento de software. Como gerente de suporte a TI, conduzi equipes e projetos, adquirindo habilidades cruciais para a gestão de projetos de desenvolvimento. Na área administrativa, gerenciei operações comerciais, fortalecendo minha compreensão dos processos organizacionais relevantes para o desenvolvimento de software.
 
-Atualmente, como professor em um curso técnico de desenvolvimento de sistemas, compartilho meu conhecimento em Administração de Banco de Dados, desenvolvimento de software mobile com React Native, além de ensinar lógica de programação e estrutura de dados com Python. Essa experiência, aliada ao meu papel anterior como engenheiro de software, solidificou minha trajetória no campo do desenvolvimento de software, combinando habilidades técnicas com expertise em gestão e educação.
+Atualmente, como professor em um curso técnico de desenvolvimento de sistemas, compartilho meu conhecimento, cobrindo Lógica de Programação, Desenvolvimento Web, Banco de Dados, Desenvolvimento de Aplicativos Móveis, Engenharia de Software e Projeto e Desenvolvimento de Sistemas. Ministrando aulas e orientando alunos em linguagens de programação como Python e Java, além de tecnologias web como HTML, CSS e JavaScript, e princípios de modelagem de banco de dados e linguagem SQL, bem como o desenvolvimento de projetos práticos de software, desde a concepção até a implementação, incluindo análise de requisitos, arquitetura de software e testes de qualidade. Essa experiência, aliada ao meu papel anterior como engenheiro de software, solidificou minha trajetória no campo do desenvolvimento de software, combinando habilidades técnicas com expertise em gestão e educação.
 
 ## Tecnologias
 
