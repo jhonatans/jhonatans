@@ -1,7 +1,7 @@
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=50&color=gradient&reversal=false"/>
 
-# Jhonathan Silva - Desenvolvedor de Software
+# Jhonathan Silva
+### Software Engineer | Full Stack Developer | Developer | Software Development Teacher
 
 ## Carreira
 
@@ -31,4 +31,3 @@ Atualmente, como professor em um curso técnico de desenvolvimento de sistemas, 
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=50&color=gradient&reversal=true&section=footer"/>
-
