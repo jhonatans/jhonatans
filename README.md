@@ -13,7 +13,7 @@ Atualmente, como professor em um curso técnico de desenvolvimento de sistemas, 
 
 - MySql
 - Postgree
-- Python (Kivy)
+- Python
 - JavaScript
 - React Native
 - Java
